@@ -11,30 +11,30 @@
 ### Images
 
 * _Desktop Sketch view_
-![Screen Shot](img/sketch.jpeg)
-![Screen Shot](img/sketch2.jpeg)
-![Screen Shot](img/sketch3.jpeg)
-![Screen Shot](img/sketch4.jpeg)
+![Screen Shot](src/assets/images/sketch.jpeg)
+![Screen Shot](src/assets/images/sketch2.jpeg)
+![Screen Shot](src/assets/images/sketch3.jpeg)
+![Screen Shot](src/assets/images/sketch4.jpeg)
 
 #### Mobile Version
 
 * _Mobile Sketch view_
-![Screen Shot](img/sketch5.jpeg)
-![Screen Shot](img/sketch6.jpeg)
+![Screen Shot](src/assets/images/sketch5.jpeg)
+![Screen Shot](src/assets/images/sketch6.jpeg)
 
 * _Mobile Wireframe_
-![Screen Shot](img/mobile2.1.png)
-![Screen Shot](img/mobile2.2.png)
+![Screen Shot](src/assets/images/mobile2.1.png)
+![Screen Shot](src/assets/images/mobile2.2.png)
 
 #### Desktop Version
 
 * _Desktop Wireframe_
-![Screen Shot](img/desktop.png)
+![Screen Shot](src/assets/images/desktop.png)
 
 #### Tablet Version
 
 * _Tablet Wireframe_
-![Screen Shot](img/tablet.png)
+![Screen Shot](src/assets/images/tablet.png)
 
 ## Target Users
 
