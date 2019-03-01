@@ -8,13 +8,15 @@
 
 * _The purpose of this project to be a freelance developer who is helping a company with their website._
 
+### Images
+
 * _Desktop Sketch view_
 ![Screen Shot](img/sketch.jpeg)
 ![Screen Shot](img/sketch2.jpeg)
 ![Screen Shot](img/sketch3.jpeg)
 ![Screen Shot](img/sketch4.jpeg)
 
-## Wireframe
+#### Mobile Version
 
 * _Mobile Sketch view_
 ![Screen Shot](img/sketch5.jpeg)
@@ -24,8 +26,12 @@
 ![Screen Shot](img/mobile2.1.png)
 ![Screen Shot](img/mobile2.2.png)
 
+#### Desktop Version
+
 * _Desktop Wireframe_
 ![Screen Shot](img/desktop.png)
+
+#### Tablet Version
 
 * _Tablet Wireframe_
 ![Screen Shot](img/tablet.png)
@@ -42,14 +48,23 @@
 
 * _We usually have a fun, optional activity on Thursday afternoons. Like yoga, maybe a fun complementary food, or like...I don't know, maybe even crafts sometimes (come make your own mini desktop terrarium)._
 
-##  Research, Inspire, and Brainstorm
+### Technologies and Resources
+
+* _I looked up two different companies that also opened a co-working space and got ideas from their website_
 
 * _Tech Space uses clean font and is easy to navigate through the site._
 
 * _we work uses clean more bold font, is easy to navigate through the site and uses logos to show who they have worked with._
 
+* _I used the software sketch to wireframe and also prototype the project_
 
-## Setup/Installation Requirements
+
+### Responsiveness
+
+* _When you are on the desktop view you can see the side Navigation bar the whole time. But once into tablet or mobile view the navigation will be at the top right corner. In mobile view the image will take up the whole width of the page_
+
+
+### Setup Instructions
 
 * _Clone Repository https://github.com/ko1h/lakai.git_
 * _Github link_
@@ -57,18 +72,13 @@
 * _Open index.html_
 * _use atom to open up repository *look at webpage by opening up repository then viewing through google chrome_
 
-## Known Bugs
+### Roadmap
 
-_Footer is not finished._
+* _Footer is not finished in tablet version so I may work on that._
 
 ## Support and contact details
 
 _If you are having issues you can contact us at kohichi.horii@gmail.com_
-
-## Technologies Used
-
-_Github, Git, HTML, CSS, SCSS_
-
 
 ### License
 
