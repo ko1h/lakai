@@ -5,9 +5,17 @@ body {
 
 .topNavBar {
   width: 100%;
-  background-color: red;
+  background-color: black;
   display: flex;
-  flex-direction: column;
+  flex-direction: row;
+  justify-content: center;
+  #threeLine{
+    height: 50px;
+    width: 50px;
+  }
+  .logo {
+    color: white;
+  }
 }
 
 .main {
@@ -23,6 +31,14 @@ body {
 }
 
 .footer {
-  width: 100%;
-  text-align: center;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  background-color: black;
+  color: white;
+  .footerColumn {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
 }
