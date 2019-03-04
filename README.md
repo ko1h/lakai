@@ -36,7 +36,16 @@
 * _Tablet Wireframe_
 ![Screen Shot](src/assets/images/tablet.png)
 
-## Target Users
+## Personas
+
+* _User personas: Scott "I need a workspace for his team." - Scott has recently started a new start up that helps customer find shoes that are hard to purchase. He needs a small place where him and his team can work together is a nice and clean workspace._
+
+* _User personas: Cole "I need a workspace to code" - Cole has recently moved here and need a place to work. He currently working remote and will like a place that has fast internet and coffee_
+
+* _User personas: Devin "I need a place to be creative" - Devin wants to open a new online store where customer's can buy pet toy's. He needs a place that is quiet and also a place where he can meet more creative minds._
+
+
+## User Stories
 
 * _Target users: potential members of the co-working space (freelancers, entrepreneurs and their employees, remote workers, creatives), co-working management_
 
