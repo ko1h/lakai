@@ -3,26 +3,39 @@ body {
   padding: 0;
 }
 
-.container {
-  height: 100vh;
-  display: grid;
-  grid-template-columns: 200px 2fr;
-  grid-template-rows: 100px minmax(200px, 1fr) 150px;
-}
+$blackColor: black;
+
 
 .header {
-  background-color: red;
-  grid-column: 1 / -1;
-  text-align: center;
+  width: 100%;
+  background-color: $blackColor;
+  color: pink;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+.container {
+  display: flex;
+  flex-direction: row;
 }
 .aside {
-  background-color: blue;
-  grid-row: 2 / 4;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: 400px;
+  height: 100%;
+
 }
 
 .main {
-  grid-row: 2 / 3;
   display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.frontPage {
+  display:flex;
   align-items: center;
   justify-content: center;
   #doorPhoto {
@@ -33,14 +46,14 @@ body {
   #newLocation {
     position: absolute;
   }
-
 }
 
+
 .footer {
-  grid-row: 3 / 3;
   display: flex;
+  flex-direction: row;
   justify-content: center;
-  background-color: black;
+  background-color: $blackColor;
   color: white;
   .footerColumn {
     display: flex;
