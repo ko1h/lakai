@@ -3,36 +3,42 @@ body {
   padding: 0;
 }
 
-.topNavBar {
-  width: 100%;
-  background-color: black;
-  display: flex;
-  flex-direction: row;
-  justify-content: center;
-  #threeLine{
-    height: 50px;
-    width: 50px;
-  }
-  .logo {
-    color: white;
-  }
+.container {
+  height: 100vh;
+  display: grid;
+  grid-template-columns: 200px 2fr;
+  grid-template-rows: 100px minmax(200px, 1fr) 150px;
+}
+
+.header {
+  background-color: red;
+  grid-column: 1 / -1;
+  text-align: center;
+}
+.aside {
+  background-color: blue;
+  grid-row: 2 / 4;
 }
 
 .main {
+  grid-row: 2 / 3;
   display: flex;
   align-items: center;
   justify-content: center;
   #doorPhoto {
     position: relative;
+    height: 100%;
+    width:100%;
   }
   #newLocation {
     position: absolute;
   }
+
 }
 
 .footer {
+  grid-row: 3 / 3;
   display: flex;
-  flex-direction: row;
   justify-content: center;
   background-color: black;
   color: white;
@@ -41,4 +47,5 @@ body {
     flex-direction: column;
     align-items: center;
   }
+
 }
