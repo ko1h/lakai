@@ -140,13 +140,13 @@
 ### Setup Instructions
 
 ### To view code
-* _Download github link to your computer [Lakai](https://github.com/ko1h/lakai.git)_
+* _Download Github repository link to your computer [Lakai](https://github.com/ko1h/lakai.git)_
 * _Open folder_
 * _Make sure you have NodeJs and NPM installed (required to view project)_
 * _use atom to open up repository *look at webpage by opening up repository then viewing through google chrome_
 
 ### To view sketch
- * _Download github link to your computer [Lakai](https://github.com/ko1h/lakai.git)_
+ * _Download Github repository link to your computer [Lakai](https://github.com/ko1h/lakai.git)_
  * _Open Sketch_
  * _Click on preview_
 
