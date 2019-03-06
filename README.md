@@ -118,6 +118,19 @@
 
 * _I used the software sketch to wireframe and also prototype the project_
 
+### Technologies
+
+* _Sketch_
+* _HTMl_
+* _CSS_
+* _Atom_
+* _Sass_
+
+### Resources
+
+* _Unsplash_
+* _Adobe Color_
+* _Google Front_
 
 ### Responsiveness
 
@@ -126,15 +139,21 @@
 
 ### Setup Instructions
 
-* _Clone Repository https://github.com/ko1h/lakai.git_
-* _Github link_
+### To view code
+* _Download github link to your computer [Lakai](https://github.com/ko1h/lakai.git)_
 * _Open folder_
-* _Open index.html_
+* _Make sure you have NodeJs and NPM installed (required to view project)_
 * _use atom to open up repository *look at webpage by opening up repository then viewing through google chrome_
+
+### To view sketch
+ * _Download github link to your computer [Lakai](https://github.com/ko1h/lakai.git)_
+ * _Open Sketch_
+ * _Click on preview_
 
 ### Roadmap
 
-* _Footer is not finished in tablet version so I may work on that._
+* _Add Contact Page_
+* _Add Amenties Page_
 
 ## Support and contact details
 
