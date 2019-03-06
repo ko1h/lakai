@@ -48,12 +48,12 @@ Needs:
 Pain points:
      * Cost per month
      * Privacy
-     * Technologies: wifi_
+     * Technologies: wifi
 
    How we can serve:
      * Provide competitive cost
      * Provide private space for him and his small team
-     * Fast and safe wifi_
+     * Fast and safe wifi
 
 Cole "I recently moved here and need a workspace to code"
 
@@ -71,7 +71,7 @@ Pain points:
 
    * Provide competitive cost
    * Provide private space for him
-   * Fast and safe wifi_
+   * Fast and safe wifi
 
 Devin "I need a place to be creative"
 
