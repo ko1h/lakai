@@ -2,7 +2,7 @@
 
 #### _A Designing a website for a company 2019_
 
-#### By _** Kohichi Horii **_
+#### By _**Kohichi Horii**_
 
 ## Description
 

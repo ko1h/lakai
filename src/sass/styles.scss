@@ -8,11 +8,23 @@ $blackColor: black;
 
 .header {
   width: 100%;
+  height: 150px;
   background-color: $blackColor;
   color: pink;
   display: flex;
   flex-direction: row;
+  align-items: center;
   justify-content: center;
+}
+
+.logo {
+  font-size: 3em;
+}
+
+.threeline>img {
+  display: none;
+  height: 50%;
+  width: 20%;
 }
 .container {
   display: flex;
@@ -23,7 +35,7 @@ $blackColor: black;
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  width: 400px;
+  width: 30%;
   height: 100%;
 
 }
@@ -48,6 +60,31 @@ $blackColor: black;
   }
 }
 
+.costTitle {
+  margin: -10px;
+}
+
+.cost {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+.costChoice {
+  display: flex;
+  width: 48%;
+  margin-right: 2%;
+  margin-bottom: 5%;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.costChoice>img {
+  width: 100%;
+  height: 100%;
+}
+
 
 .footer {
   display: flex;
@@ -61,4 +98,20 @@ $blackColor: black;
     align-items: center;
   }
 
+}
+@media screen and (max-width: 960px) {
+  .aside {
+    display: none;
+  }
+  .cost {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+  }
+  .costChoice>img {
+    width: 100%;
+    height: 50%;
+  }
 }
