@@ -38,60 +38,63 @@
 
 ## Personas
 
-Scott - "I need a workspace for new start up company._
+### Scott
+ _"I need a workspace for new start up company". Has started a new shoe company, where people can purchased rare shoes_
 
-Needs:
+### Needs:
 
-    * Affordable office space
-    * Looking for a place that him and his team of 4 can work quietly
-    * Looking for a place that has fast wifi and area that are quiet
+* _Affordable office space_
+* _Looking for a place that him and his team of 4 can work quietly_
+* _Looking for a place that has fast wifi and area that are quiet_
 
-Pain points:
+### Pain points:
 
-     * Cost per month
-     * Privacy
-     * Technologies: wifi
+* _Cost per month_
+* _Privacy_
+* _Technologies: wifi_
 
-How we can serve:
+### How we can serve:
 
-     * Provide competitive cost
-     * Provide private space for him and his small team
-     * Fast and safe wifi
+* _Provide competitive cost_
+* _Provide private space for him and his small team_
+* _Fast and safe wifi_
 
-Cole - "I recently moved here and need a workspace to code"
+### Cole
+ _"I'm a recently graduated student and just moved here, so I am in need of a workspace to code"_
 
-Needs:
+### Needs:
 
-    * Looking for a place that has fast wifi and area that are quiet
-    * A place where I can feel safe
+* _Looking for a place that has fast wifi and area that are quiet_
+* _A place where I can feel safe_
 
-Pain points:
+### Pain points:
 
-     * Privacy
-     * Technologies: wi-fi, faxing,
+ * _Privacy_
+ * _Technologies: wi-fi_
 
-How we can serve:
+### How we can serve:
 
-   * Provide competitive cost
-   * Provide private space for him
-   * Fast and safe wifi
+* _Provide competitive cost_
+* _Provide private space for him_
+* _Fast and safe wifi_
 
-Devin - "I need a place to be creative"
+### Devin
+ _"I need a place to be creative". Wants to start a new website that help's customer purchased cat toy's online._
 
-Needs:
+### Needs:
 
-    * Meet new people who are also in the creative field
-    * Affordable office space where I can have clients come
+* _Meet new people who are also in the creative field_
+* _Affordable office space where I can have clients come_
 
-Pain points:
+## Pain points:
 
-     * Cost per month
-     * Finding other people who are interested in the same thing
+* _Cost per month_
+* _Finding other people who are interested in the same thing_
 
-How we can serve:
+## How we can serve:
 
-     * Provide competitive cost
-     * Provide community atmosphere where are also learning
+* _Provide competitive cost_
+* _Provide community atmosphere where are also learning_
 
 ## User Stories
 
