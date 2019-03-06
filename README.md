@@ -2,7 +2,7 @@
 
 #### _A Designing a website for a company 2019_
 
-#### By _** Kohichi Horii**_
+#### By _** Kohichi Horii **_
 
 ## Description
 
@@ -38,52 +38,58 @@
 
 ## Personas
 
-Scott "I need a workspace for new start up company.
+Scott - "I need a workspace for new start up company._
 
 Needs:
+
     * Affordable office space
     * Looking for a place that him and his team of 4 can work quietly
     * Looking for a place that has fast wifi and area that are quiet
 
 Pain points:
+
      * Cost per month
      * Privacy
      * Technologies: wifi
 
-   How we can serve:
+How we can serve:
+
      * Provide competitive cost
      * Provide private space for him and his small team
      * Fast and safe wifi
 
-Cole "I recently moved here and need a workspace to code"
+Cole - "I recently moved here and need a workspace to code"
 
 Needs:
-    * Affordable office space
+
     * Looking for a place that has fast wifi and area that are quiet
     * A place where I can feel safe
 
 Pain points:
-     * Cost per month
+
      * Privacy
      * Technologies: wi-fi, faxing,
 
-   How we can serve:
+How we can serve:
 
    * Provide competitive cost
    * Provide private space for him
    * Fast and safe wifi
 
-Devin "I need a place to be creative"
+Devin - "I need a place to be creative"
 
 Needs:
+
     * Meet new people who are also in the creative field
     * Affordable office space where I can have clients come
 
 Pain points:
+
      * Cost per month
      * Finding other people who are interested in the same thing
 
-   How we can serve:
+How we can serve:
+
      * Provide competitive cost
      * Provide community atmosphere where are also learning
 
